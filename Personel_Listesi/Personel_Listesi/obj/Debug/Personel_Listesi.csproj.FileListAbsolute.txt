@@ -1,0 +1,12 @@
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\bin\Debug\Personel_Listesi.exe.config
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\bin\Debug\Personel_Listesi.exe
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\bin\Debug\Personel_Listesi.pdb
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.Properties.Resources.resources
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.csproj.GenerateResource.cache
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.exe
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.pdb
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.FormIstatistik.resources
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.FormAnaform.resources
+C:\Users\betul\source\repos\Personel_Listesi\Personel_Listesi\obj\Debug\Personel_Listesi.GrafiklerFormu.resources
